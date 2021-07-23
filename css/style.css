@@ -81,6 +81,18 @@ transition: color .2s linear;
 .nav_link:hover{
     color:#2EE59D;
 }
+.link_contact{
+    display:inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    font-size: 20px;
+    color:#fff;
+    text-decoration: none;
+transition: color .2s linear;
+}
+.link_contact:hover{
+    color:#2EE59D;
+}
 
 .intro_inner{
     position: absolute;
