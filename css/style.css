@@ -137,13 +137,8 @@ color: #fff;;
     color: white;
     transform: translateY(-7px);
   }
-  .link_button{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 5px;
-    color:#fff;
-    text-decoration: none;
-transition: color .2s linear;
-  }
+  
+
   /*main*/
   .section{
     padding: 10px 0;
